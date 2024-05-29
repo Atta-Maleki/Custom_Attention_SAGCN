@@ -7,6 +7,6 @@ AGCN blocks were one of the effective innovations in Neural Networks. With havin
 
 The Architecture of the model with and without Attention channels added:
 
-![Architecture with adding Attention Channels] ()
+![Architecture with adding Attention Channels](NN-plot-with-attention-light.jpg)
 
-![Architecture without adding Attention Channels] ()
+![Architecture without adding Attention Channels](NN-plot-no-attention-light.jpg)
